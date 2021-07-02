@@ -15,3 +15,7 @@
 ## Thermal pads sizes, thickness and location
 <img src="./blueprint.jpg" width="20%">  
 <img src="./gpu and vrams.jpg" width="20%">  
+
+
+## Youtube Tutorial for replacing this specific GPU  
+Youtube link... coming soon..  
