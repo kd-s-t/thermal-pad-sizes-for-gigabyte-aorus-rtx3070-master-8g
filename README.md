@@ -18,4 +18,4 @@
 
 
 ## Youtube Tutorial for replacing this specific GPU  
-Youtube link... coming soon..  
+https://www.youtube.com/watch?v=Abe7lVNX524  
